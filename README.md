@@ -1,6 +1,6 @@
 # jquery.qrcode.js
 
-<a href='http://jeromeetienne.github.com/jquery-qrcode'>jquery.qrcode.js</a>
+<a href='http://jeromeetienne.github.com/jquery-qrcode'>jquery.qrcode.js 二维码生成器</a>
 is *jquery plugin for a pure browser qrcode generation*.
 It allow you to easily add qrcode to your webpages.
 It is standalone, less than 4k after minify+gzip, no image download.
